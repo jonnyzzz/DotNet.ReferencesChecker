@@ -1,0 +1,13 @@
+out
+*.tmp
+nuget-extensions/bin*
+**/bin
+**/obj
+**.suo
+**/*.user
+**/*.user
+**/*.cache
+/_ReSharper*
+packages
+
+
